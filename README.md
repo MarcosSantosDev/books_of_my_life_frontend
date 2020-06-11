@@ -49,15 +49,6 @@ After the app has been started open a web browser and navigate to `http://localh
 ### yarn build
 > Bundles the app into static files for production.
 
-### yarn test
-> Starts the test runner.
-
-### yarn eject
-> Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can’t go back!
-
-### yarn start
-> Start the project as an application in development mode
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
