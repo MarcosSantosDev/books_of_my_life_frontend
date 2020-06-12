@@ -17,18 +17,6 @@ You need to have installed on your machine:
 - [node](https://nodejs.org/en/)
 - [yarn](https://yarnpkg.com/)
 
-### Setup
-
-- In the project root folder copy the contents of `.env.example` file to a new `.env` file
-- In the `.env` file set the URL of the API server to be used by your instance of this web app
-
-**Example:**
-
-```
-API_BASE_URL ='https://api.com'
-```
-
-> Note: The application needs to be rebuilt and restarted to recognize changes in the `.env` file
 
 ### Installing
 
