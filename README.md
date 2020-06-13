@@ -2,6 +2,8 @@
 
 The books of my life is a library that helps to create a history of books read.
 
+[![GitHub license](https://img.shields.io/github/license/MarcosSantosDev/books_of_my_life_frontend)](https://github.com/MarcosSantosDev/books_of_my_life_frontend/blob/master/LICENSE.md)
+
 ## Getting Started
 
 Clone the project:
