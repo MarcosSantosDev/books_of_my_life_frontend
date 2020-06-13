@@ -25,7 +25,8 @@
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx}'",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "commit": "npx git-cz"
   },
   "husky": {
     "hooks": {
